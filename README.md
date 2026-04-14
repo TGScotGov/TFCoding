@@ -1,4 +1,4 @@
 # Main Repo for TF Coding
 
-## This section will be sued to add coding comments and walk throughs
+## This section will be used to add coding comments and walk throughs
 
